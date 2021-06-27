@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This is a Route Planner project for Udacity C++ Nanodegree. It uses A* algorithm to search the shortest path from a starting point to ending point. The chosen route is visualize on a map image using OpenStreet Map and io2d rendering library. 
 
 <img src="map.png" width="600" height="450" />
 
